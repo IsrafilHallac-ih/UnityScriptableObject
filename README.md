@@ -1,0 +1,2 @@
+# UnityScriptableObject
+UNİTY İLE SCRİPTABLE OBJECT KONUSU VERİLERİ TUTMAK 
